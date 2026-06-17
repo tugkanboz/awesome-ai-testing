@@ -61,6 +61,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [ExecuteAutomation Playwright MCP](https://github.com/executeautomation/mcp-playwright) 🆓 - Community Playwright MCP server with API testing support and 143 device emulation profiles.
 - [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) 🆓 - Browser monitoring and console log access for AI agents via Chrome extension.
 - [Browser MCP](https://github.com/browsermcp/mcp) 🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).
+- [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - MCP server purpose-built for mobile app testing on Android/iOS simulators using Maestro, with deep Redux state inspection and CI pipeline integration.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.
 
 ## Self-Healing Test Frameworks
@@ -95,6 +96,7 @@ End-to-end testing platforms with AI at the core.
 - [Katalon Studio](https://katalon.com/) 🆓💰 - Test automation platform with AI features including TrueTest and Visual Testing.
 
 ## Mobile AI Testing
+- [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - Mobile app testing MCP server for Android/iOS simulators via Maestro, with Redux state debugging and CI integration.
 
 AI-powered tools specifically for mobile app testing.
 
