@@ -99,7 +99,8 @@ End-to-end testing platforms with AI at the core.
 - [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - Mobile app testing MCP server for Android/iOS simulators via Maestro, with Redux state debugging and CI integration.
 
 AI-powered tools specifically for mobile app testing.
-
+ - [Smart-AI-Bot](https://github.com/rejigtian/Smart-AI-Bot) 🆓 - AI-agent platform that runs plain-language UI test cases on real Android devices with visual step-replay reports and
+  self-learning guardrails.
 - [Maestro](https://github.com/mobile-dev-inc/maestro) 🆓💰 - YAML-based mobile UI automation that reads accessibility tree, no XPath needed.
 - [Appium](https://appium.io/) 🆓 - Industry standard mobile automation, with AI plugins for self-healing.
 - [Sofy](https://sofy.ai/) 💰 - No-code AI mobile testing platform.
