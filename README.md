@@ -149,6 +149,8 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
+- [Evidently AI](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source ML and LLM evaluation framework with 100+ built-in metrics covering data quality, model performance, and generative AI output quality.
+- [Agenta](https://github.com/agenta-ai/agenta) 🆓💰 - Open-source LLMOps platform with prompt versioning, LLM-as-judge and custom evaluators, human annotation workflows, and CI-ready test sets.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
