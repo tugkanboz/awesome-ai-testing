@@ -228,6 +228,7 @@ AI features for API testing, schema generation, and contract validation.
 Tools to test LLM applications themselves (security, robustness, hallucination).
 
 - [Garak](https://github.com/NVIDIA/garak) 🆓 - LLM vulnerability scanner from NVIDIA.
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - NVIDIA's open-source toolkit for adding programmable guardrails and dialog flows to LLM-based conversational systems using the Colang specification language.
 - [DeepTeam](https://github.com/confident-ai/deepteam) 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
 - [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
@@ -288,6 +289,7 @@ Learning resources for AI-powered testing.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - Benchmark for evaluating multimodal agents on open-ended computer tasks across realistic Windows, macOS, and Linux desktop environments.
 
 ## Related Awesome Lists
 
