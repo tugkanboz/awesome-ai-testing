@@ -146,9 +146,11 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) 🆓 - Open-source LLM observability and evaluation.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
+- [MLflow](https://github.com/mlflow/mlflow) 🆓 - Widely adopted open-source AI engineering platform with GenAI evaluation, LLM-as-judge metrics, and experiment tracking via mlflow.genai.evaluate().
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
+- [Weave](https://github.com/wandb/weave) 🆓💰 - Weights & Biases toolkit for tracing LLM calls, running systematic evaluations, and iterating on generative AI applications in production.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
