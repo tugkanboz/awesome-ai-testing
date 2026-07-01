@@ -50,6 +50,7 @@ Tools that generate test cases from code, requirements, or user behavior using A
 - [GitHub Copilot](https://github.com/features/copilot) 💰 - AI pair programmer that generates test code in Playwright, Cypress, Selenium across editors.
 - [Cursor](https://www.cursor.com/) 💰 - AI-first code editor with strong test generation capabilities for major frameworks.
 - [Claude Code](https://www.anthropic.com/claude-code) 💰 - Anthropic's terminal-based agentic coding assistant, useful for test suite generation and refactoring.
+- [Aider](https://github.com/Aider-AI/aider) 🆓 - AI pair programming tool for the terminal that edits code with LLMs, auto-runs your test suite on every change, and automatically fixes linter and test failures.
 
 ## MCP-Based Testing
 
@@ -288,6 +289,7 @@ Learning resources for AI-powered testing.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, covering web browsers, desktop apps, and coding tools.
 
 ## Related Awesome Lists
 
