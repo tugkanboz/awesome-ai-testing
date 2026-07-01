@@ -63,6 +63,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [Browser MCP](https://github.com/browsermcp/mcp) 🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).
 - [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - MCP server purpose-built for mobile app testing on Android/iOS simulators using Maestro, with deep Redux state inspection and CI pipeline integration.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.
+- [prufa-mcp](https://github.com/prufa-dev/prufa-mcp) 🆓💰 - MCP server that lets an AI agent audit a web app (analytics, broken flows, security headers, accessibility) and get back machine-verified findings.
 
 ## Self-Healing Test Frameworks
 
