@@ -146,6 +146,8 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) 🆓 - Open-source LLM observability and evaluation.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
+- [Evidently AI](https://github.com/evidentlyai/evidently) 🆓 - Open-source ML and LLM evaluation framework with 100+ built-in metrics, LLM judge support, and test suite integration for CI/CD pipelines.
+- [EvalScope](https://github.com/modelscope/evalscope) 🆓 - Comprehensive LLM and VLM evaluation framework from ModelScope supporting 100+ standard benchmarks, agent evaluation, and inference performance stress testing.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
