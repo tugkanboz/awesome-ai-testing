@@ -96,7 +96,6 @@ End-to-end testing platforms with AI at the core.
 - [Katalon Studio](https://katalon.com/) 🆓💰 - Test automation platform with AI features including TrueTest and Visual Testing.
 
 ## Mobile AI Testing
-- [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - Mobile app testing MCP server for Android/iOS simulators via Maestro, with Redux state debugging and CI integration.
 
 AI-powered tools specifically for mobile app testing.
 
