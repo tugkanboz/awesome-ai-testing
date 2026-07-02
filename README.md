@@ -41,6 +41,7 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 Tools that generate test cases from code, requirements, or user behavior using AI.
 
 - [Qodo-Cover](https://github.com/qodo-ai/qodo-cover) 🆓 - AI-powered tool for automated test generation and code coverage enhancement.
+- [AITestCaseGenerator](https://aitestcasegenerator-six.vercel.app/) 🆓💰 - Browser-based AI tool that turns requirements, user stories, and acceptance criteria into manual test cases, Gherkin scenarios, and CSV-ready QA exports.
 - [EvoMaster](https://github.com/EMResearch/EvoMaster) 🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.
 - [EvoSuite](https://github.com/EvoSuite/evosuite) 🆓 - Generates JUnit tests using evolutionary and genetic search-based algorithms for Java.
 - [Pynguin](https://github.com/se2p/pynguin) 🆓 - Automated unit test generation for Python via evolutionary algorithms, from Saarland University.
