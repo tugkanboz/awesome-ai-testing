@@ -112,6 +112,7 @@ AI-powered tools specifically for mobile app testing.
 Visual regression and UI verification powered by AI.
 
 - [Lost Pixel](https://github.com/lost-pixel/lost-pixel) 🆓💰 - Open source visual regression testing.
+- [Lastest](https://lastest.cloud) 💰 - Playwright-native visual regression testing with AI-assisted diff review and flake triage.
 - [Loki](https://github.com/oblador/loki) 🆓 - Visual regression testing for Storybook.
 - [Argos](https://github.com/argos-ci/argos) 🆓💰 - Open source visual testing for engineering teams.
 - [BackstopJS](https://github.com/garris/BackstopJS) 🆓 - Visual regression testing for responsive web UIs.
