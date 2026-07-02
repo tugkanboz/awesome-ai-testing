@@ -288,6 +288,7 @@ Learning resources for AI-powered testing.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
+- [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
 
