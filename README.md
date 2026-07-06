@@ -291,6 +291,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [BrowserGym](https://github.com/ServiceNow/BrowserGym) 🆓 - ServiceNow's gym environment for web agent research that consolidates multiple benchmarks including WebArena, VisualWebArena, and MiniWoB under a single standardized Gymnasium interface.
 
 ## Related Awesome Lists
 
