@@ -167,6 +167,7 @@ AI for failure analysis, flaky test detection, and reporting.
 - [Datadog CI Visibility](https://www.datadoghq.com/product/ci-cd-monitoring/) 💰 - Test analytics with flaky test detection across CI pipelines.
 - [Launchable](https://www.launchableinc.com/) 💰 - ML-driven predictive test selection and flaky test detection.
 - [BuildPulse](https://buildpulse.io/) 💰 - Flaky test detection and analytics platform.
+- [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) 🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
 ## Code Coverage with AI
 
@@ -174,6 +175,7 @@ Tools that use AI to fill coverage gaps and prioritize testing efforts.
 
 - [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) 🆓 - LLM-based mutation testing for stronger test suites.
 - [Stryker Mutator](https://github.com/stryker-mutator/stryker-js) 🆓 - Mutation testing framework that pairs well with AI test generators.
+- [coverage-guard](https://github.com/sametcelikbicak/coverage-guard) 🆓 - AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
 ## AI Test Data Generation
 
