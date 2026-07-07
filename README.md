@@ -143,6 +143,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Ragas](https://github.com/explodinggradients/ragas) 🆓 - Evaluation framework for RAG pipelines using LLM judges.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) 🆓 - LLM evaluation framework from the UK AI Safety Institute.
 - [TruLens](https://github.com/truera/trulens) 🆓 - Evaluation framework for LLM apps with feedback functions and tracing.
+- [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source framework for evaluating and monitoring ML and LLM systems, with 100+ built-in metrics covering data drift, text quality, and retrieval relevance.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) 🆓 - Open-source LLM observability and evaluation.
 - [Weights & Biases Weave](https://github.com/wandb/weave) 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
@@ -291,6 +292,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [MTEB](https://github.com/embeddings-benchmark/mteb) 🆓 - Massive Text Embedding Benchmark for evaluating text embedding models across retrieval, classification, clustering, and semantic similarity tasks, with a public leaderboard on Hugging Face.
 
 ## Related Awesome Lists
 
