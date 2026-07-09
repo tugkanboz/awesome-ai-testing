@@ -236,6 +236,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) 🆓 - Meta's open-source toolkit for assessing and improving LLM security, including Llama Guard for safety classification and CyberSecEval for cybersecurity risk benchmarking.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
