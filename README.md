@@ -36,6 +36,17 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 - 💰 Commercial
 - 🆓💰 Open core (free tier or open source with paid features)
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=tugkanboz%2Fawesome-ai-testing&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&theme=dark&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+ </picture>
+</a>
+
+
 ## Test Generation
 
 Tools that generate test cases from code, requirements, or user behavior using AI.
@@ -308,7 +319,3 @@ Learning resources for AI-powered testing.
 ## Contributing
 
 Contributions are welcome. Please read the [contribution guidelines](contributing.md) before opening a pull request.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tugkanboz/awesome-ai-testing&type=Date)](https://www.star-history.com/?repos=tugkanboz%2Fawesome-ai-testing&type=date&legend=top-left)
