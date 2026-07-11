@@ -62,6 +62,7 @@ Tools that generate test cases from code, requirements, or user behavior using A
 - [GitHub Copilot](https://github.com/features/copilot) 💰 - AI pair programmer that generates test code in Playwright, Cypress, Selenium across editors.
 - [Cursor](https://www.cursor.com/) 💰 - AI-first code editor with strong test generation capabilities for major frameworks.
 - [Claude Code](https://www.anthropic.com/claude-code) 💰 - Anthropic's terminal-based agentic coding assistant, useful for test suite generation and refactoring.
+- [Aider](https://github.com/Aider-AI/aider) 🆓 - Open source AI pair programming tool for the terminal that supports 100+ languages and automatically runs linting and tests after every AI-driven code edit.
 
 ## MCP-Based Testing
 
@@ -303,6 +304,7 @@ Learning resources for AI-powered testing.
 - [BenchClaw](https://github.com/Agnuxo1/BenchClaw) 🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
+- [EvalPlus](https://github.com/evalplus/evalplus) 🆓 - NeurIPS 2023 framework extending HumanEval and MBPP with far richer test suites for rigorous evaluation of LLM-generated code correctness.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
