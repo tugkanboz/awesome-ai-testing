@@ -308,3 +308,7 @@ Learning resources for AI-powered testing.
 ## Contributing
 
 Contributions are welcome. Please read the [contribution guidelines](contributing.md) before opening a pull request.
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tugkanboz/awesome-ai-testing&type=Date)](https://www.star-history.com/?repos=tugkanboz%2Fawesome-ai-testing&type=date&legend=top-left)
