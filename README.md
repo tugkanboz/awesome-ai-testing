@@ -296,7 +296,6 @@ Learning resources for AI-powered testing.
 ## Newsletters and Communities
 
 - [Software Testing Weekly](https://softwaretestingweekly.com/) - Weekly testing newsletter with strong AI coverage.
-- [Coding Jag](https://katalon.com/coding-jag) - Weekly newsletter covering AI, testing, and CI/CD.
 - [Test Guild](https://testguild.com/) - Podcast and community for automation testing.
 - [Ministry of Testing](https://www.ministryoftesting.com/) - Global testing community with AI-focused tracks.
 
