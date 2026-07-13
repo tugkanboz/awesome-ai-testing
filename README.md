@@ -93,7 +93,6 @@ Tools that automatically repair broken test locators and adapt to UI changes.
 End-to-end testing platforms with AI at the core.
 
 - [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
-- [Octomind](https://www.octomind.dev/) 💰 - Auto-generated, run, and maintained Playwright tests with AI test case discovery.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
 - [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
