@@ -7,6 +7,7 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 ## Contents
 
 - [Legend](#legend)
+- [Star History](#star-history)
 - [Test Generation](#test-generation)
 - [MCP-Based Testing](#mcp-based-testing)
 - [Self-Healing Test Frameworks](#self-healing-test-frameworks)
@@ -35,6 +36,17 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 - 🆓 Open source
 - 💰 Commercial
 - 🆓💰 Open core (free tier or open source with paid features)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=tugkanboz%2Fawesome-ai-testing&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&theme=dark&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tugkanboz/awesome-ai-testing&type=date&legend=top-left&sealed_token=X-n9ZhRSZKkzNtEE2hO8wOCnxB1BTWgv3x2HDUhO5TrpS0mT7xa1Woa2LldGAECPbDgtAO4se79E-zn4Eq_loXBzldEnXNyzQkTgSb8Izkpkpf1bSbQDkQ" />
+ </picture>
+</a>
+
 
 ## Test Generation
 
@@ -82,9 +94,9 @@ End-to-end testing platforms with AI at the core.
 
 - [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
 - [agent-qa](https://github.com/vostride/agent-qa) 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
-- [Octomind](https://www.octomind.dev/) 💰 - Auto-generated, run, and maintained Playwright tests with AI test case discovery.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
+- [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
 - [Autify](https://autify.com/) 💰 - No-code end-to-end testing platform with AI-driven maintenance.
 - [Reflect](https://reflect.run/) 💰 - No-code regression testing with AI-assisted authoring.
 - [QA Wolf](https://www.qawolf.com/) 💰 - AI-powered QA-as-a-service generating Playwright tests at scale.
@@ -151,6 +163,8 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
+- [LangWatch](https://github.com/langwatch/langwatch) 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
+- [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
@@ -168,6 +182,7 @@ AI for failure analysis, flaky test detection, and reporting.
 - [Datadog CI Visibility](https://www.datadoghq.com/product/ci-cd-monitoring/) 💰 - Test analytics with flaky test detection across CI pipelines.
 - [Launchable](https://www.launchableinc.com/) 💰 - ML-driven predictive test selection and flaky test detection.
 - [BuildPulse](https://buildpulse.io/) 💰 - Flaky test detection and analytics platform.
+- [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) 🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
 ## Code Coverage with AI
 
@@ -175,6 +190,7 @@ Tools that use AI to fill coverage gaps and prioritize testing efforts.
 
 - [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) 🆓 - LLM-based mutation testing for stronger test suites.
 - [Stryker Mutator](https://github.com/stryker-mutator/stryker-js) 🆓 - Mutation testing framework that pairs well with AI test generators.
+- [coverage-guard](https://github.com/sametcelikbicak/coverage-guard) 🆓 - AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
 ## AI Test Data Generation
 
@@ -253,6 +269,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [Steel Browser](https://github.com/steel-dev/steel-browser) 🆓 - Open-source browser API for AI agents.
 - [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) 🆓 - Patched Playwright for stealth automation.
 - [Lightpanda](https://github.com/lightpanda-io/browser) 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
+- [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
 
 ## Articles and Talks
@@ -279,13 +296,13 @@ Learning resources for AI-powered testing.
 ## Newsletters and Communities
 
 - [Software Testing Weekly](https://softwaretestingweekly.com/) - Weekly testing newsletter with strong AI coverage.
-- [Coding Jag](https://katalon.com/coding-jag) - Weekly newsletter covering AI, testing, and CI/CD.
 - [Test Guild](https://testguild.com/) - Podcast and community for automation testing.
 - [Ministry of Testing](https://www.ministryoftesting.com/) - Global testing community with AI-focused tracks.
 
 ## Benchmarks and Datasets
 
 - [BenchClaw](https://github.com/Agnuxo1/BenchClaw) 🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.
+- [HELM](https://github.com/stanford-crfm/helm) 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
