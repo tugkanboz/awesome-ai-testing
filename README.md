@@ -259,6 +259,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [uivet](https://github.com/MaryanPrydatko/uivet) 🆓 - Test and eval harness for LLM-generated UI that samples each generation N times, renders in headless Chromium, and runs deterministic checks for data fidelity, accessibility, layout, and console errors with baseline regression gates for CI.
 
 ## Browser Automation for AI Agents
 
