@@ -170,6 +170,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
 - [Respan](https://www.respan.ai/ai-gateway) 🆓💰 - LLM observability, evaluation, and prompt management platform with a multi-provider gateway.
+- [Prompt Regression Suite](https://github.com/prashibadkur11-creator/prompt-regression-suite) 🆓 - CI framework that regression-tests prompt changes against a scored test set (deterministic + LLM-as-judge checks) and blocks merges on a quality drop.
 
 ## Test Analytics and Triage
 
