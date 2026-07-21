@@ -241,6 +241,7 @@ AI features for API testing, schema generation, and contract validation.
 - [Keploy](https://github.com/keploy/keploy) 🆓 - Generates API tests and mocks from real traffic, with AI assertion generation.
 - [Stepci](https://github.com/stepci/stepci) 🆓💰 - API testing framework with AI-suggested assertions.
 - [Postman](https://www.postman.com/) 🆓💰 - AI-assisted API test generation and contract validation with Postbot assistant.
+- [funapi](https://funapi.dev/). A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
 ## LLM and AI System Testing
 
