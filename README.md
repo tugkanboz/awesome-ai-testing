@@ -272,6 +272,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [Lightpanda](https://github.com/lightpanda-io/browser) 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
 - [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
+- [Kane CLI](https://www.testmuai.com/kane-cli/) 🆓💰 - Runs browser tests from natural-language objectives and returns structured pass/fail results, so coding agents (Claude Code, Cursor, Codex CLI, Gemini CLI) can verify their own changes in a real browser.
 
 ## Articles and Talks
 
