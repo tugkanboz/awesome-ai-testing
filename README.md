@@ -255,6 +255,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
+- [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) 🆓 - CLI that diffs an AI agent's behavior between two runs, comparing tool calls, args, cost, latency, and outcome flips to catch regressions after prompt or model changes.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
