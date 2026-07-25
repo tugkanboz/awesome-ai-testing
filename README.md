@@ -166,6 +166,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
 - [LangWatch](https://github.com/langwatch/langwatch) 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
 - [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
+- [MLflow](https://github.com/mlflow/mlflow) 🆓💰 - Industry-standard ML lifecycle platform with 50+ built-in LLM-as-judge metrics and experiment tracking for evaluating and monitoring LLM application output quality over time.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
@@ -254,6 +255,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) 🆓 - IBM's Python library for ML security that provides tools for evaluating model robustness against evasion, poisoning, extraction, and inference attacks across all major frameworks.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
