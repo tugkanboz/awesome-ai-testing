@@ -7,7 +7,6 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 ## Contents
 
 - [Legend](#legend)
-- [Star History](#star-history)
 - [Test Generation](#test-generation)
 - [MCP-Based Testing](#mcp-based-testing)
 - [Self-Healing Test Frameworks](#self-healing-test-frameworks)
