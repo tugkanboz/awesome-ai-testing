@@ -4,6 +4,7 @@ Thanks for considering a contribution.
 
 Please ensure your pull request follows these rules:
 
+- Please star this repository before submitting a contribution.
 - The tool, framework, or resource should genuinely use AI/ML/LLMs as a core feature, not as a marketing tagline.
 - Use the format: `- [Name](link) BADGE - Description.` where BADGE is 🆓, 💰, or 🆓💰.
 - Keep descriptions concise (one sentence preferred, two maximum).
