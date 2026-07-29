@@ -243,6 +243,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
+- [TextAttack](https://github.com/QData/TextAttack) 🆓 - Python framework for adversarial attacks, data augmentation, and adversarial training in NLP, enabling systematic robustness evaluation of text classification and language models.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
@@ -298,6 +299,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [LiveBench](https://github.com/livebench/livebench) 🆓 - Contamination-free LLM benchmark updated monthly with questions from recent arXiv papers, news, and datasets, scored automatically using verifiable ground-truth answers without an LLM judge.
 
 ## Related Awesome Lists
 
