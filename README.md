@@ -242,7 +242,9 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) 🆓 - IBM and Linux Foundation AI open-source Python library for testing ML model security against evasion, poisoning, extraction, and inference attacks across all major frameworks.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
+- [AgentOps](https://github.com/AgentOps-AI/agentops) 🆓💰 - Python SDK for AI agent observability and testing, with session replay, LLM cost tracking, failure detection, and integrations for CrewAI, LangChain, and the OpenAI Agents SDK.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
