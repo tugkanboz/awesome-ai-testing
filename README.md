@@ -83,6 +83,7 @@ End-to-end testing platforms with AI at the core.
 
 - [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
 - [agent-qa](https://github.com/vostride/agent-qa) 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+- [five46](https://github.com/sekharsdet/five46) 🆓 - BYOK CLI (OpenAI/Anthropic/Gemini/Groq/Bedrock) that drives a real browser or real HTTP requests toward a plain-English goal entirely locally, then writes the run as a real, standalone Playwright/`node:test` file with no five46/LLM needed to re-run it.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
 - [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
