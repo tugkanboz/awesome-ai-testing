@@ -149,6 +149,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Weights & Biases Weave](https://github.com/wandb/weave) 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
+- [Lighteval](https://github.com/huggingface/lighteval) 🆓 - Hugging Face's all-in-one LLM evaluation toolkit with 1,000+ tasks and support for multiple inference backends including Accelerate, vLLM, and TGI.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
