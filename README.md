@@ -50,6 +50,7 @@ Tools that generate test cases from code, requirements, or user behavior using A
 - [GitHub Copilot](https://github.com/features/copilot) 💰 - AI pair programmer that generates test code in Playwright, Cypress, Selenium across editors.
 - [Cursor](https://www.cursor.com/) 💰 - AI-first code editor with strong test generation capabilities for major frameworks.
 - [Claude Code](https://www.anthropic.com/claude-code) 💰 - Anthropic's terminal-based agentic coding assistant, useful for test suite generation and refactoring.
+- [AI Test Case Generator](https://aitestcasegenerator-six.vercel.app) 🆓 - Web tool that turns requirements and feature notes into QA test case drafts for review.
 
 ## MCP-Based Testing
 
