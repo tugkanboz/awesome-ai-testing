@@ -235,6 +235,7 @@ AI features for API testing, schema generation, and contract validation.
 Tools to test LLM applications themselves (security, robustness, hallucination).
 
 - [Garak](https://github.com/NVIDIA/garak) 🆓 - LLM vulnerability scanner from NVIDIA.
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) 🆓 - Meta's open-source toolkit for responsible LLM development, combining CyberSecEval cybersecurity benchmarks with Llama Guard safeguards for inputs and outputs.
 - [DeepTeam](https://github.com/confident-ai/deepteam) 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
 - [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
@@ -299,6 +300,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [LiveBench](https://github.com/livebench/livebench) 🆓 - ICLR 2025 Spotlight benchmark for LLMs designed to prevent data contamination by releasing new questions monthly from recent papers, news articles, and datasets, with verifiable ground-truth answers across 18 diverse tasks.
 
 ## Related Awesome Lists
 
