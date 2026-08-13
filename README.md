@@ -133,6 +133,7 @@ Write tests using plain English (or other natural languages).
 - [Auto Playwright](https://github.com/lucgagan/auto-playwright) 🆓 - Run Playwright tests with AI through plain text prompts.
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
+- [Alumnium](https://github.com/alumnium-hq/alumnium) 🆓 - AI-native testing library and MCP server that adds natural language assertions on top of Playwright, Appium, and Selenium without replacing existing test infrastructure.
 - [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
@@ -299,6 +300,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [BFCL](https://github.com/ShishirPatil/gorilla) 🆓 - UC Berkeley's benchmark and leaderboard for evaluating LLMs on function-calling and tool-use across simple, parallel, nested, and multi-turn agentic scenarios.
 
 ## Related Awesome Lists
 
