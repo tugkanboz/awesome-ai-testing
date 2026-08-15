@@ -154,6 +154,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
 - [LangWatch](https://github.com/langwatch/langwatch) 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
 - [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
+- [PromptFlow](https://github.com/microsoft/promptflow) 🆓 - Open-source development suite from Microsoft for building and evaluating LLM application flows with dataset-level batch evaluation and LLM-as-judge quality metrics.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
@@ -259,6 +260,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) 🆓 - Patched Playwright for stealth automation.
 - [Lightpanda](https://github.com/lightpanda-io/browser) 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
 - [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
+- [OmniParser](https://github.com/microsoft/OmniParser) 🆓 - Microsoft's screen-parsing toolkit that converts UI screenshots into structured elements, enabling pure vision-based AI agents to interact with any GUI.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
 
 ## Articles and Talks
