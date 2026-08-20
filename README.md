@@ -229,6 +229,7 @@ AI features for API testing, schema generation, and contract validation.
 - [Keploy](https://github.com/keploy/keploy) 🆓 - Generates API tests and mocks from real traffic, with AI assertion generation.
 - [Stepci](https://github.com/stepci/stepci) 🆓💰 - API testing framework with AI-suggested assertions.
 - [Postman](https://www.postman.com/) 🆓💰 - AI-assisted API test generation and contract validation with Postbot assistant.
+- [Akto](https://github.com/akto-api-security/akto) 🆓 - Open-source API security platform that discovers APIs from traffic and runs automated OWASP Top 10 tests in CI/CD, with dedicated support for testing AI agents and LLM-based APIs.
 
 ## LLM and AI System Testing
 
@@ -240,6 +241,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) 🆓 - Meta's open-source umbrella for LLM security evaluation, including CyberSecEval benchmarks and guardrail models for detecting prompt injection, jailbreaks, and insecure code generation.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
