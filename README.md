@@ -123,6 +123,7 @@ Visual regression and UI verification powered by AI.
 - [Percy](https://percy.io/) 💰 - Visual review and regression testing, part of BrowserStack.
 - [Chromatic](https://www.chromatic.com/) 💰 - Visual and interaction tests for Storybook.
 - [Happo](https://happo.io/) 💰 - Cross-browser screenshot testing with Playwright, Cypress, and Storybook integrations.
+- [UI Verify](https://uiverify.ai) 🆓💰 - AI judge triages each PR's screenshot diffs of your Storybook, Playwright, or Vitest tests as change, regression, or flake.
 
 ## Natural Language Test Authoring
 
