@@ -133,6 +133,7 @@ Write tests using plain English (or other natural languages).
 - [Auto Playwright](https://github.com/lucgagan/auto-playwright) 🆓 - Run Playwright tests with AI through plain text prompts.
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
+- [Alumnium](https://github.com/alumnium-hq/alumnium) 🆓 - AI-native library and MCP server for end-to-end testing using natural language commands and assertions across Playwright, Selenium, and Appium.
 - [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
@@ -151,6 +152,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
+- [AgentOps](https://github.com/AgentOps-AI/agentops) 🆓 - Python SDK for AI agent session replay, cost tracking, and evaluation across CrewAI, OpenAI Agents SDK, and 40+ other frameworks.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
 - [LangWatch](https://github.com/langwatch/langwatch) 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
 - [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
