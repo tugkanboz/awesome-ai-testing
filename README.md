@@ -164,6 +164,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 AI for failure analysis, flaky test detection, and reporting.
 
 - [agenttrace](https://github.com/luoyuctl/agenttrace) 🆓 - Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and failure regression gates.
+- [AgentOps](https://github.com/agentops-ai/agentops) 🆓 - Python SDK for AI agent monitoring, LLM cost tracking, session replay, and failure detection, with integrations for CrewAI, LangChain, and OpenAI Agents SDK.
 - [ReportPortal](https://github.com/reportportal/reportportal) 🆓💰 - Open source results management with ML-based failure clustering.
 - [Allure TestOps](https://qameta.io/) 💰 - Test management with AI-driven analytics and flaky detection.
 - [Sealights](https://www.sealights.io/) 💰 - Quality intelligence platform using ML for test gap analysis.
@@ -240,6 +241,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
+- [LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) 🆓 - Meta's open-source guardrail framework for AI agents that detects jailbreaks via PromptGuard 2, audits agent reasoning with chain-of-thought checks, and blocks insecure code generation with CodeShield.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
