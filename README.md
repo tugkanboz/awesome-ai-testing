@@ -62,7 +62,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) 🆓 - Browser monitoring and console log access for AI agents via Chrome extension.
 - [Browser MCP](https://github.com/browsermcp/mcp) 🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).
 - [Podium MCP](https://github.com/hoainho/podium-mcp) 🆓 - MCP server purpose-built for mobile app testing on Android/iOS simulators using Maestro, with deep Redux state inspection and CI pipeline integration.
-- [optics-framework](https://github.com/mozarkai/optics-framework) 🆓 - MCP server that exposes its mobile, web, and Smart TV automation keywords as typed tools and live session state as resources, so AI agents can start sessions, observe screens, and drive real devices.
+- [optics-framework](https://mozarkai.github.io/optics-framework/usage/mcp_usage/) 🆓 - MCP server that exposes its mobile, web, and Smart TV automation keywords as typed tools and live session state as resources, so AI agents can start sessions, observe screens, and drive real devices.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.
 - [prufa-mcp](https://github.com/prufa-dev/prufa-mcp) 🆓💰 - Open-source (Apache-2.0) MCP server connected to Prufa's hosted audit backend; an AI agent runs a QA audit of a web app (analytics, broken flows, security headers, accessibility) and gets back machine-verified findings. First audit is free; further audits and features require a paid plan.
 
@@ -135,7 +135,7 @@ Write tests using plain English (or other natural languages).
 - [Auto Playwright](https://github.com/lucgagan/auto-playwright) 🆓 - Run Playwright tests with AI through plain text prompts.
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
-- [optics-framework](https://github.com/mozarkai/optics-framework) 🆓 - Natural-language mode where an LLM agent executes plain-language instructions on live mobile, web, and TV apps and curates the recorded steps into replayable CSV/YAML test modules.
+- [optics-framework](https://mozarkai.github.io/optics-framework/usage/live_usage/) 🆓 - Natural-language mode where an LLM agent executes plain-language instructions on live mobile, web, and TV apps and curates the recorded steps into replayable CSV/YAML test modules.
 - [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
