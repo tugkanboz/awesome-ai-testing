@@ -40,6 +40,7 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 
 Tools that generate test cases from code, requirements, or user behavior using AI.
 
+- [AI API Test Generator](https://github.com/hajar-benhadj/AI-API-TEST-Generator) 🆓 - Open-source Python tool that parses Swagger/OpenAPI specs and uses LLMs to auto-generate Pytest suites for REST APIs.
 - [Qodo-Cover](https://github.com/qodo-ai/qodo-cover) 🆓 - AI-powered tool for automated test generation and code coverage enhancement.
 - [EvoMaster](https://github.com/EMResearch/EvoMaster) 🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.
 - [EvoSuite](https://github.com/EvoSuite/evosuite) 🆓 - Generates JUnit tests using evolutionary and genetic search-based algorithms for Java.
