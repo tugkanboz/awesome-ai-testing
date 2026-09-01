@@ -159,6 +159,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
 - [Respan](https://www.respan.ai/ai-gateway) 🆓💰 - LLM observability, evaluation, and prompt management platform with a multi-provider gateway.
+- [AgentOps](https://github.com/AgentOps-AI/agentops) 🆓💰 - Python SDK for AI agent observability with session replay, LLM cost tracking, benchmarking, and integrations for CrewAI, OpenAI Agents SDK, LangChain, and AutoGen.
 
 ## Test Analytics and Triage
 
@@ -244,6 +245,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
+- [Scenario](https://github.com/langwatch/scenario) 🆓 - Agentic testing framework that evaluates AI agents through simulated multi-turn conversations with built-in user simulators, LLM judge scoring, and red-teaming support.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
