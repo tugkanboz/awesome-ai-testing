@@ -262,6 +262,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 - [Notte](https://github.com/nottelabs/notte) 🆓 - Web agent framework for building fast, cost-efficient AI agents that automate web interactions using natural language instructions, with browser session management, structured data extraction, and anti-detection support.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
+- [Kane CLI](https://www.testmuai.com/kane-cli/) 🆓💰 - Runs browser tests from natural-language objectives and returns structured pass/fail results, so coding agents (Claude Code, Cursor, Codex CLI, Gemini CLI) can verify their own changes in a real browser.
 
 ## Articles and Talks
 
