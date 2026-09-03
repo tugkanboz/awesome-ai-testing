@@ -242,6 +242,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
+- [ARTKIT](https://github.com/BCG-X-Official/artkit) 🆓 - Python framework by BCG X for automated prompt-based testing and red-teaming of generative AI applications, supporting multi-turn conversations and evaluation across safety, accuracy, and security dimensions.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
@@ -297,6 +298,7 @@ Learning resources for AI-powered testing.
 - [HELM](https://github.com/stanford-crfm/helm) 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
+- [EvalPlus](https://github.com/evalplus/evalplus) 🆓 - Rigorous code evaluation benchmark extending HumanEval and MBPP with 80x and 35x more tests respectively, used to assess LLM code generation quality by Meta, DeepSeek, and Qwen.
 - [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 🆓 - Contamination-free holistic benchmark for evaluating LLM coding abilities that continuously collects problems from LeetCode, AtCoder, and CodeForces, covering code generation, execution, and test output prediction.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
