@@ -150,6 +150,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Weights & Biases Weave](https://github.com/wandb/weave) 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
+- [Prompt Flow](https://github.com/microsoft/promptflow) 🆓 - Microsoft's open-source toolkit for building, evaluating, and deploying LLM applications, with batch testing, built-in quality metrics, and CI/CD integration.
 - [Langfuse](https://github.com/langfuse/langfuse) 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
 - [Helicone](https://github.com/Helicone/helicone) 🆓💰 - Open source LLM observability and prompt evaluation platform.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
@@ -297,6 +298,7 @@ Learning resources for AI-powered testing.
 - [HELM](https://github.com/stanford-crfm/helm) 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
+- [EvalPlus](https://github.com/evalplus/evalplus) 🆓 - Rigorous benchmark for code-generating LLMs that extends HumanEval and MBPP with significantly more test cases and an efficiency track, adopted by Meta Llama, Qwen, and DeepSeek.
 - [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 🆓 - Contamination-free holistic benchmark for evaluating LLM coding abilities that continuously collects problems from LeetCode, AtCoder, and CodeForces, covering code generation, execution, and test output prediction.
 - [WebArena](https://github.com/web-arena-x/webarena) - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
