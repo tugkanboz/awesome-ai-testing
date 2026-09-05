@@ -173,6 +173,7 @@ AI for failure analysis, flaky test detection, and reporting.
 - [Launchable](https://www.launchableinc.com/) 💰 - ML-driven predictive test selection and flaky test detection.
 - [BuildPulse](https://buildpulse.io/) 💰 - Flaky test detection and analytics platform.
 - [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) 🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) 🆓 - Longitudinal evaluation and immutable evidence for agent runs: runs each candidate in a private fresh-repository workspace and evaluates retained evidence with ordered deterministic and LLM-judge profiles, keeping receipts, manifests, and provenance hash-verified.
 
 ## Code Coverage with AI
 
