@@ -92,6 +92,7 @@ End-to-end testing platforms with AI at the core.
 - [QA Wolf](https://www.qawolf.com/) 💰 - AI-powered QA-as-a-service generating Playwright tests at scale.
 - [Bug0](https://bug0.com/) 💰 - Agentic testing platform built on the Planner, Generator, Healer pattern with MCP integration.
 - [Checksum](https://checksum.ai/) 💰 - Generates Playwright and Cypress tests from real user sessions.
+- [Octomind](https://octomind.dev/) 💰 - AI agent that autonomously discovers, generates, and maintains Playwright E2E tests by analyzing your web application.
 - [Rainforest QA](https://www.rainforestqa.com/) 💰 - No-code testing platform with AI-driven test generation.
 - [BrowserStack Low Code Automation](https://www.browserstack.com/low-code-automation) 💰 - AI-powered low-code platform with self-healing agents, NL test authoring, and real device cloud execution.
 - [LambdaTest KaneAI](https://www.lambdatest.com/kane-ai) 💰 - GenAI-native test agent for authoring, executing, and maintaining tests using natural language.
@@ -261,6 +262,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [Lightpanda](https://github.com/lightpanda-io/browser) 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
 - [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 - [Notte](https://github.com/nottelabs/notte) 🆓 - Web agent framework for building fast, cost-efficient AI agents that automate web interactions using natural language instructions, with browser session management, structured data extraction, and anti-detection support.
+- [BrowserGym](https://github.com/ServiceNow/BrowserGym) 🆓 - Open-source gym environment for building and evaluating web task agents across nine benchmarks including WebArena, WorkArena, and MiniWoB.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
 
 ## Articles and Talks
