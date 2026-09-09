@@ -143,6 +143,7 @@ Write tests using plain English (or other natural languages).
 Use LLMs to evaluate test outputs, assertions, and quality.
 
 - [Promptfoo](https://github.com/promptfoo/promptfoo) 🆓💰 - Test framework with LLM-as-judge for prompts, models, and RAG pipelines.
+- [PromptFlow](https://github.com/microsoft/promptflow) 🆓💰 - Microsoft's end-to-end development and evaluation suite for LLM-powered workflows, with dataset-driven quality metrics, built-in tracing, and Azure AI integration.
 - [DeepEval](https://github.com/confident-ai/deepeval) 🆓💰 - Pytest-like LLM evaluation framework with built-in judge metrics.
 - [Ragas](https://github.com/explodinggradients/ragas) 🆓 - Evaluation framework for RAG pipelines using LLM judges.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) 🆓 - LLM evaluation framework from the UK AI Safety Institute.
