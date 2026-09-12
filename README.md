@@ -144,6 +144,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 
 - [Promptfoo](https://github.com/promptfoo/promptfoo) 🆓💰 - Test framework with LLM-as-judge for prompts, models, and RAG pipelines.
 - [DeepEval](https://github.com/confident-ai/deepeval) 🆓💰 - Pytest-like LLM evaluation framework with built-in judge metrics.
+- [Prompt Flow](https://github.com/microsoft/promptflow) 🆓 - Microsoft's open-source suite for building, batch-testing, and evaluating LLM applications with CI/CD-integrated quality assessment and execution tracing.
 - [Ragas](https://github.com/explodinggradients/ragas) 🆓 - Evaluation framework for RAG pipelines using LLM judges.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) 🆓 - LLM evaluation framework from the UK AI Safety Institute.
 - [TruLens](https://github.com/truera/trulens) 🆓 - Evaluation framework for LLM apps with feedback functions and tracing.
@@ -166,6 +167,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 AI for failure analysis, flaky test detection, and reporting.
 
 - [agenttrace](https://github.com/luoyuctl/agenttrace) 🆓 - Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and failure regression gates.
+- [AgentOps](https://github.com/AgentOps-AI/agentops) 🆓💰 - Python SDK for monitoring and debugging AI agent sessions with execution tracing, LLM cost tracking, and session replay across major agent frameworks.
 - [ReportPortal](https://github.com/reportportal/reportportal) 🆓💰 - Open source results management with ML-based failure clustering.
 - [Allure TestOps](https://qameta.io/) 💰 - Test management with AI-driven analytics and flaky detection.
 - [Sealights](https://www.sealights.io/) 💰 - Quality intelligence platform using ML for test gap analysis.
