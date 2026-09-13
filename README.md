@@ -156,6 +156,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Opik](https://github.com/comet-ml/opik) 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
 - [LangWatch](https://github.com/langwatch/langwatch) 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
 - [Evidently](https://github.com/evidentlyai/evidently) 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
+- [AgentOps](https://github.com/AgentOps-AI/agentops) 🆓💰 - Open-source AI agent observability and testing platform with session replay, cost tracking, and native integrations for CrewAI, LangChain, and OpenAI Agents SDK.
 - [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
@@ -296,6 +297,7 @@ Learning resources for AI-powered testing.
 - [BenchClaw](https://github.com/Agnuxo1/BenchClaw) 🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) 🆓 - Benchmark for structured-output generation and cross-format conversion across text and renderable formats, with syntax, structural, and visual-fidelity checks.
 - [HELM](https://github.com/stanford-crfm/helm) 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
+- [MTEB](https://github.com/embeddings-benchmark/mteb) 🆓 - Massive Text Embedding Benchmark evaluating text embedding models across retrieval, classification, clustering, and semantic similarity tasks in multiple languages.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
 - [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 🆓 - Contamination-free holistic benchmark for evaluating LLM coding abilities that continuously collects problems from LeetCode, AtCoder, and CodeForces, covering code generation, execution, and test output prediction.
