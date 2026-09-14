@@ -237,6 +237,7 @@ AI features for API testing, schema generation, and contract validation.
 Tools to test LLM applications themselves (security, robustness, hallucination).
 
 - [Garak](https://github.com/NVIDIA/garak) 🆓 - LLM vulnerability scanner from NVIDIA.
+- [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) 🆓 - Open-source model and agent testing that publishes signed evidence cards, content-addressed roots, and offline verification tools.
 - [DeepTeam](https://github.com/confident-ai/deepteam) 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
 - [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
