@@ -263,6 +263,7 @@ Browser automation libraries designed for or commonly used by AI agents.
 - [AgentQL](https://github.com/tinyfish-io/agentql) 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 - [Notte](https://github.com/nottelabs/notte) 🆓 - Web agent framework for building fast, cost-efficient AI agents that automate web interactions using natural language instructions, with browser session management, structured data extraction, and anti-detection support.
 - [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
+- [stealthy-auto-browse](https://github.com/psyb0t/docker-stealthy-auto-browse) 🆓 - Stealth browser automation for AI agents: Camoufox (Firefox) in Docker with no CDP exposure and real OS-level input, driven over an HTTP API and MCP; passes Cloudflare, CreepJS and other bot detectors.
 
 ## Articles and Talks
 
