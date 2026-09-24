@@ -189,6 +189,7 @@ Tools that use AI to generate realistic test data, fixtures, and edge cases.
 
 - [Faker.js](https://github.com/faker-js/faker) 🆓 - Standard fake data library, often paired with AI for context-aware data.
 - [Datafaker](https://github.com/datafaker-net/datafaker) 🆓 - Java/Kotlin port of Faker for realistic fake data generation in JVM-based test suites.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) 🆓 - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes - unlike format-only fakers, every value passes real validation. CLI, Python SDK, Java library, REST API, and JMeter plugin.
 - [Snowfakery](https://github.com/SFDO-Tooling/Snowfakery) 🆓 - Relational synthetic data generator from Salesforce, useful for complex schema-aware test fixtures.
 - [Mockaroo](https://www.mockaroo.com/) 🆓💰 - Realistic test data generation with AI-suggested schemas.
 - [Synthesized](https://www.synthesized.io/) 💰 - AI-driven synthetic data platform for testing.
