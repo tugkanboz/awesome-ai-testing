@@ -244,6 +244,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/Azure/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) 🆓 - Linux Foundation AI's Python library for testing ML models against adversarial evasion, poisoning, extraction, and inference attacks across TensorFlow, PyTorch, and scikit-learn.
 - [LLM Guard](https://github.com/protectai/llm-guard) 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer) 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
@@ -297,6 +298,7 @@ Learning resources for AI-powered testing.
 - [BenchClaw](https://github.com/Agnuxo1/BenchClaw) 🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) 🆓 - Benchmark for structured-output generation and cross-format conversion across text and renderable formats, with syntax, structural, and visual-fidelity checks.
 - [HELM](https://github.com/stanford-crfm/helm) 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
+- [MTEB](https://github.com/embeddings-benchmark/mteb) 🆓 - Massive Text Embedding Benchmark for evaluating text and multimodal embedding models across retrieval, classification, clustering, and semantic similarity tasks, with an interactive leaderboard on Hugging Face.
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
 - [HumanEval](https://github.com/openai/human-eval) - Evaluating large language models trained on code.
 - [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 🆓 - Contamination-free holistic benchmark for evaluating LLM coding abilities that continuously collects problems from LeetCode, AtCoder, and CodeForces, covering code generation, execution, and test output prediction.
