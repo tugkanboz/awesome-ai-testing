@@ -99,6 +99,7 @@ End-to-end testing platforms with AI at the core.
 - [LambdaTest KaneAI](https://www.lambdatest.com/kane-ai) 💰 - GenAI-native test agent for authoring, executing, and maintaining tests using natural language.
 - [Virtuoso QA](https://www.virtuosoqa.com/) 💰 - NLP-based codeless E2E platform with self-healing and visual testing.
 - [Katalon Studio](https://katalon.com/) 🆓💰 - Test automation platform with AI features including TrueTest and Visual Testing.
+- [Testorim](https://testorim.com/) 💰 - Describe a web test in plain English and an AI agent plans the steps, runs them in a real Chromium browser, and reports what happened with video, a Playwright trace, and an accessibility scan.
 
 ## Mobile AI Testing
 
