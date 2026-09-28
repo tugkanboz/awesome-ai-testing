@@ -55,6 +55,7 @@ Tools that generate test cases from code, requirements, or user behavior using A
 
 Tools and servers that use the Model Context Protocol to give AI agents browser control and testing capabilities.
 
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector) 🆓 - Official interactive developer tool from the MCP team for testing and debugging MCP servers, with a web UI, CLI, and terminal UI for inspecting tools, resources, and prompts.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) 🆓 - Official Playwright MCP server giving AI agents full browser control through structured accessibility snapshots.
 - [Playwright CLI](https://github.com/microsoft/playwright-cli) 🆓 - Token-efficient CLI for coding agents like Claude Code and GitHub Copilot, with installable skills.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆓 - Official MCP server from the Chrome DevTools team, with 26 tools for browser automation, debugging, and performance analysis.
