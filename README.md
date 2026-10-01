@@ -138,6 +138,7 @@ Write tests using plain English (or other natural languages).
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
 - [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
+- [Sedum](https://github.com/sedum-dev/sedum) 🆓 - Plain-English test steps or goals mixed with ordinary Playwright code, resolved by a typed decision model instead of selectors and judged against a pass threshold.
 
 ## LLM-as-Judge Evaluation
 
