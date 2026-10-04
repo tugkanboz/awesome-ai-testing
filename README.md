@@ -305,6 +305,7 @@ Learning resources for AI-powered testing.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
 
+- [ModelBenchmark](https://modelbenchmark.io) 🆓 - Independent AI model rankings combining 16 public benchmarks for 202 models, plus prices, context windows, release dates, and a 2,406-model catalog.
 ## Related Awesome Lists
 
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - General test automation across languages.
