@@ -206,6 +206,7 @@ Tools for mocking external services, LLM APIs, and dependencies in AI testing pi
 - [Pact](https://github.com/pact-foundation/pact-specification) 🆓 - Contract testing framework for microservices and API consumers.
 - [MSW (Mock Service Worker)](https://github.com/mswjs/msw) 🆓 - API mocking library for browser and Node.js, ideal for frontend AI testing.
 - [Hoverfly](https://github.com/SpectoLabs/hoverfly) 🆓 - Lightweight service virtualization with proxy-based recording and replay.
+- [fieldtwin](https://github.com/nickgeorgeseo/fieldtwin) 🆓 - Stateful twins of the Jobber and QuickBooks Online APIs for testing AI agents, with an MCP server to checkpoint, list what the agent changed, and rewind.
 
 ## Performance Testing with AI
 
