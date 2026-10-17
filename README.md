@@ -250,6 +250,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Prompt Security](https://www.prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [WhyLabs](https://whylabs.ai/) 💰 - ML observability and LLM monitoring.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [evalguard](https://github.com/zhumeiyan/evalguard) 🆓💰 - Static linter for LLM/agent evaluation scripts. Analyzes the eval harness (AST-only, never executes it) and reports defects that invalidate reported metrics: missing random baselines, unprotected denominators, recall computed on data used for inference, silent `except` handlers. 26 rules, 16 free, MIT, stdlib only.
 
 ## Browser Automation for AI Agents
 
