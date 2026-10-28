@@ -250,6 +250,8 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
 
+- [SharpLogic](https://github.com/reacherwu/SharpLogic) 🆓 - Static verification for agent workflow graphs: exact #k-SAT counting of the guard-condition assignments under which a LangGraph-style graph deadlocks or stalls, checked before runtime instead of sampled in evals.
+
 ## Browser Automation for AI Agents
 
 Browser automation libraries designed for or commonly used by AI agents.
