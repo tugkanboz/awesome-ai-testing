@@ -302,6 +302,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [fraud-eval](https://github.com/RishabhPande/fraud-eval) 🆓 - Open benchmark for evaluating LLM-based fraud and abuse detectors, with curated red-team attack packs, cost-aware metrics, and counterfactual evaluation under selective and delayed labels.
 
 ## Related Awesome Lists
 
