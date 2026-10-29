@@ -139,6 +139,7 @@ Write tests using plain English (or other natural languages).
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
+- [Roblox Ship Check](https://github.com/Deworix/roblox-ship-check) 🆓 - Agent Skill for reproducing one Roblox/Luau bug and rerunning the same test after a focused fix, with executable in-memory examples and evidence-report consistency checks.
 
 ## LLM-as-Judge Evaluation
 
