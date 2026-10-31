@@ -275,6 +275,7 @@ Essential reading on AI in software testing.
 - [20 Open-Source Projects Redefining AI + Playwright Testing](https://bug0.com/blog/20-underdog-open-source-projects-pushing-limits-ai-playwright) - Roundup of emerging AI Playwright projects.
 - [Best 12 Generative AI Testing Tools 2026](https://hashnode.com/blog/best-generative-ai-testing-tools-2026) - Ranked review of top GenAI testing platforms.
 - [Give your AI eyes: Introducing Chrome DevTools MCP](https://addyosmani.com/blog/devtools-mcp/) - Deep dive on Chrome DevTools MCP by Addy Osmani.
+- [Mobile MCP Servers: Appium MCP, Maestro MCP and mobile-mcp](https://momentic.ai/blog/mobile-mcp-server-setup) - Setting up the three mobile MCP servers in Claude Code, Cursor and Codex, and what each one lets an agent drive on iOS and Android.
 
 ## Courses and Tutorials
 
