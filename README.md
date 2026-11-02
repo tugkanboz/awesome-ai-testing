@@ -90,6 +90,7 @@ End-to-end testing platforms with AI at the core.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
 - [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
+- [Agentiqa](https://agentiqa.com/) 🆓💰 - AI Quality System for production AI agents: AI Quality Manager runs critical user flows in a real browser and checks the results in the systems the agent wrote to, with a free Community Edition (20 runs/month) for web apps.
 - [Autify](https://autify.com/) 💰 - No-code end-to-end testing platform with AI-driven maintenance.
 - [Reflect](https://smartbear.com/product/reflect/) 💰 - No-code regression testing with AI-assisted authoring.
 - [QA Wolf](https://www.qawolf.com/) 💰 - AI-powered QA-as-a-service generating Playwright tests at scale.
