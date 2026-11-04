@@ -163,6 +163,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
 - [Respan](https://www.respan.ai/ai-gateway) 🆓💰 - LLM observability, evaluation, and prompt management platform with a multi-provider gateway.
+- [evalship](https://evalship.com/) 🆓💰 - GitHub App that finds flaws in your LLM evals and judges, says on every pull request which evals a change broke, and finds prompt and model changes that win beyond chance.
 
 ## Test Analytics and Triage
 
