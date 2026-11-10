@@ -247,6 +247,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/microsoft/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
+- [drift-ci](https://github.com/Drift-CI/drift-ci) 🆓💰 - CI gate for LLM apps that scores test cases on every pull request against baselines committed to git and blocks the merge when behaviour regresses.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
