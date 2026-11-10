@@ -103,6 +103,7 @@ End-to-end testing platforms with AI at the core.
 - [Katalon Studio](https://katalon.com/) 🆓💰 - Test automation platform with AI features including TrueTest and Visual Testing.
 - [Testorim](https://testorim.com/) 💰 - Describe a web test in plain English and an AI agent plans the steps, runs them in a real Chromium browser, and reports what happened with video, a Playwright trace, and an accessibility scan.
 - [Kane CLI](https://github.com/LambdaTest/kane-cli) 🆓💰 - Testing agent and assurance layer for coding agents that turns a PRD, ticket or spec into acceptance criteria and tests, runs them on the real web or mobile app, and reports which requirements a run has proven, with step-by-step evidence.
+- [e2e](https://github.com/tester-army/e2e) 🆓 - End-to-end testing framework for web and mobile apps that combines natural-language agent steps with locator assertions and replays verified actions without model calls.
 
 ## Mobile AI Testing
 
