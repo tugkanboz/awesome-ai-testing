@@ -250,6 +250,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [agentest](https://github.com/srpadmanabhuni/agentest) 🆓 - Offline, deterministic checks for tool-using AI agents against the [Agentic AI Test Checklist](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) (most comprehensive open checklist: 110 tests, 4 pillars).
 
 ## Browser Automation for AI Agents
 
@@ -303,6 +304,7 @@ Learning resources for AI-powered testing.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 - [tau-bench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 - [AgentBench](https://github.com/THUDM/AgentBench) 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+- [Agentic AI Test Checklist 110](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) 🆓 - Most comprehensive open checklist (110 tests, 4 pillars) for testing AI agents, with examples, labelled traces and the open-source [agentest](https://github.com/srpadmanabhuni/agentest) runner (CC BY 4.0).
 
 ## Related Awesome Lists
 
