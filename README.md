@@ -250,6 +250,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [AgentProbe](https://github.com/chhayankjain/agentprobe-toolkit) 🆓 - Python fault-injection testing for tool-using LLM agents that wraps tools with deterministic failures (timeouts, rate limits, API errors) or substituted responses, records call evidence, and fails tests when required scenarios are unexercised or user-defined assertions fail.
 
 ## Browser Automation for AI Agents
 
