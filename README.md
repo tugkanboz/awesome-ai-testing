@@ -250,6 +250,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [Attify Audited Resolution Standard](https://attify.app/standards/support-resolution) 🆓 - Published rules for testing AI support agents in production: repeat contact, handoffs, and an LLM judge with a published prompt.
 
 ## Browser Automation for AI Agents
 
