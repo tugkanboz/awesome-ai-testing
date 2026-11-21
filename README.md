@@ -104,6 +104,7 @@ End-to-end testing platforms with AI at the core.
 - [Testorim](https://testorim.com/) 💰 - Describe a web test in plain English and an AI agent plans the steps, runs them in a real Chromium browser, and reports what happened with video, a Playwright trace, and an accessibility scan.
 - [Kane CLI](https://github.com/LambdaTest/kane-cli) 🆓💰 - Testing agent and assurance layer for coding agents that turns a PRD, ticket or spec into acceptance criteria and tests, runs them on the real web or mobile app, and reports which requirements a run has proven, with step-by-step evidence.
 - [e2e](https://github.com/tester-army/e2e) 🆓 - End-to-end testing framework for web and mobile apps that combines natural-language agent steps with locator assertions and replays verified actions without model calls.
+- [Thunders](https://www.thunders.ai/) 💰 - AI test agents that build, run, and maintain end-to-end tests from plain-language descriptions across web, mobile, API, and desktop, with self-healing at runtime and SaaS, hybrid, or self-hosted deployment.
 
 ## Mobile AI Testing
 
