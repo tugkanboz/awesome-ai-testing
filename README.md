@@ -196,6 +196,7 @@ Tools that use AI to generate realistic test data, fixtures, and edge cases.
 - [Mockaroo](https://www.mockaroo.com/) 🆓💰 - Realistic test data generation with AI-suggested schemas.
 - [Synthesized](https://www.synthesized.io/) 💰 - AI-driven synthetic data platform for testing.
 - [Tonic.ai](https://www.tonic.ai/) 💰 - Generate realistic safe test data from production using AI.
+- [FakeXLab](https://fakexlab.com/fake-phone-number-generator/) 🆓 - Free browser-based fake/test data generators for phone numbers, addresses, names, and more, with no sign-up required.
 
 ## Mock and Service Virtualization
 
