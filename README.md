@@ -66,6 +66,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) 🆓 - MCP server and CLI that gives coding agents independent QA evidence before declaring a web change done: scans a URL for console errors, broken links, accessibility, Core Web Vitals, SEO, and security headers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 - [TestChimp](https://testchimp.io/) 💰 - QA platform with an MCP server and CLI (@testchimp/cli) that lets coding agents read and update test scenarios, coverage and API operation data, with plans and Playwright tests kept in your Git repo.
 - [Kerno](https://kerno.io) 🆓💰 - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
+- [OmniForge Launch Audit](https://github.com/zColdWater/mcp-launch-audit) 🆓 - MCP server that lets AI coding and QA agents audit deployed web apps for leaked client-bundle secrets, open Supabase RLS tables, CSP/HSTS headers, SPF/DKIM/DMARC DNS, and llms.txt readiness.
 
 ## Self-Healing Test Frameworks
 
