@@ -218,6 +218,7 @@ AI-enhanced performance, load, and chaos testing.
 - [WebPageTest](https://www.webpagetest.org/) 🆓💰 - Performance testing with AI-suggested optimizations.
 - [LoadView](https://www.loadview-testing.com/) 💰 - Cloud-based load testing with AI-powered insights.
 - [Akamas](https://akamas.io/) 💰 - AI-driven performance optimization and tuning.
+- [Endemic](https://endemic-website.vercel.app/) 💰 - Agentic load testing for staging: AI agents choose and fire API calls concurrently, surfacing tool-call bursts, latency, and errors.
 
 ## AI for Accessibility Testing
 
