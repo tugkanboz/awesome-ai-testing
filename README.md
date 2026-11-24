@@ -86,6 +86,7 @@ End-to-end testing platforms with AI at the core.
 
 - [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
 - [agent-qa](https://github.com/vostride/agent-qa) 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+- [Agentic Test Explorer](https://github.com/srbarrios/agentic-test-explorer) 🆓 - LangGraph multi-agent framework for exploratory testing of any web app, where persona agents drive Playwright through a deterministic engine that records every action and turns each bug into a reproducible Playwright spec.
 - [Endtest](https://endtest.io) 💰 - Agentic AI test automation platform for web and mobile apps, featuring autonomous test generation, natural language authoring, self-healing, and cloud execution.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
