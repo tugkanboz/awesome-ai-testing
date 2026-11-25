@@ -239,7 +239,6 @@ AI features for API testing, schema generation, and contract validation.
 
 Tools to test LLM applications themselves (security, robustness, hallucination).
 
-- [InferDoctor](https://github.com/anguoyang/inferdoctor) 🆓 - Evidence-driven diagnosis and CI regression gating for LLM applications (RAG, agents, inference): identifies the first broken layer from collected evidence, with PASS / BLOCKED / INCONCLUSIVE gate verdicts.
 - [Garak](https://github.com/NVIDIA/garak) 🆓 - LLM vulnerability scanner from NVIDIA.
 - [DeepTeam](https://github.com/confident-ai/deepteam) 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
 - [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
@@ -250,6 +249,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
+- [InferDoctor](https://github.com/anguoyang/inferdoctor) 🆓 - Evidence-driven diagnosis and CI regression gating for LLM applications (RAG, agents, inference): identifies the first broken layer from collected evidence, with PASS / BLOCKED / INCONCLUSIVE gate verdicts.
 
 ## Browser Automation for AI Agents
 
