@@ -66,6 +66,7 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 - [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) 🆓 - MCP server and CLI that gives coding agents independent QA evidence before declaring a web change done: scans a URL for console errors, broken links, accessibility, Core Web Vitals, SEO, and security headers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 - [TestChimp](https://testchimp.io/) 💰 - QA platform with an MCP server and CLI (@testchimp/cli) that lets coding agents read and update test scenarios, coverage and API operation data, with plans and Playwright tests kept in your Git repo.
 - [Kerno](https://kerno.io) 🆓💰 - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
+- [TestingBot MCP Server](https://github.com/testingbot/mcp-server) 🆓💰 - Official MCP server for TestingBot's cloud of real browsers and real iOS/Android devices; agents drive a remote browser or device step by step, run Selenium, Playwright, Appium and Maestro tests, test localhost through a tunnel, and diagnose failed tests and builds.
 
 ## Self-Healing Test Frameworks
 
@@ -74,6 +75,7 @@ Tools that automatically repair broken test locators and adapt to UI changes.
 - [Healenium](https://github.com/healenium/healenium) 🆓 - Self-healing library for Selenium, Appium, and Playwright. Replaces broken selectors at runtime.
 - [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) 🆓 - End-to-end testing framework with built-in AI heal plugin that uses OpenAI, Anthropic, or local models to repair failing steps and propose locator fixes.
 - [optics-framework](https://github.com/mozarkai/optics-framework) 🆓 - Open-source test automation for mobile, web and Smart TV with a locator fallback ladder across XPath, text, OCR and image strategies, plus optional LLM-driven self-healing that recovers failed steps through the same keyword API.
+- [mendwright](https://github.com/saadbuilt/mendwright) 🆓 - Self-healing selectors for Playwright and Selenium in Python, and Playwright Test in TypeScript, that try a saved element fingerprint first, then an LLM (your provider or its own 1 GB local model through Ollama), and check every repair on the live page before saving it.
 - [Testim](https://www.testim.io/) 💰 - Pioneer of self-healing tests with AI-driven smart locators.
 - [Functionize](https://www.functionize.com/) 💰 - AI-powered tests that adapt without selectors.
 - [TestSigma](https://testsigma.com/) 💰 - AI-driven low-code platform with self-healing across web, mobile, and API.
@@ -86,10 +88,13 @@ End-to-end testing platforms with AI at the core.
 
 - [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
 - [agent-qa](https://github.com/vostride/agent-qa) 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+- [Agentic Test Explorer](https://github.com/srbarrios/agentic-test-explorer) 🆓 - LangGraph multi-agent framework for exploratory testing of any web app, where persona agents drive Playwright through a deterministic engine that records every action and turns each bug into a reproducible Playwright spec.
 - [Endtest](https://endtest.io) 💰 - Agentic AI test automation platform for web and mobile apps, featuring autonomous test generation, natural language authoring, self-healing, and cloud execution.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
+- [QA.tech](https://qa.tech/) 💰 - AI testing agent that verifies every pull request with exploratory and end-to-end tests across web, mobile, and APIs, before or after merge.
 - [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
+- [Agentiqa](https://agentiqa.com/) 🆓💰 - AI Quality System for production AI agents: AI Quality Manager runs critical user flows in a real browser and checks the results in the systems the agent wrote to, with a free Community Edition (20 runs/month) for web apps.
 - [Autify](https://autify.com/) 💰 - No-code end-to-end testing platform with AI-driven maintenance.
 - [Reflect](https://smartbear.com/product/reflect/) 💰 - No-code regression testing with AI-assisted authoring.
 - [QA Wolf](https://www.qawolf.com/) 💰 - AI-powered QA-as-a-service generating Playwright tests at scale.
@@ -104,11 +109,13 @@ End-to-end testing platforms with AI at the core.
 - [Testorim](https://testorim.com/) 💰 - Describe a web test in plain English and an AI agent plans the steps, runs them in a real Chromium browser, and reports what happened with video, a Playwright trace, and an accessibility scan.
 - [Kane CLI](https://github.com/LambdaTest/kane-cli) 🆓💰 - Testing agent and assurance layer for coding agents that turns a PRD, ticket or spec into acceptance criteria and tests, runs them on the real web or mobile app, and reports which requirements a run has proven, with step-by-step evidence.
 - [e2e](https://github.com/tester-army/e2e) 🆓 - End-to-end testing framework for web and mobile apps that combines natural-language agent steps with locator assertions and replays verified actions without model calls.
+- [Thunders](https://www.thunders.ai/) 💰 - AI test agents that build, run, and maintain end-to-end tests from plain-language descriptions across web, mobile, API, and desktop, with self-healing at runtime and SaaS, hybrid, or self-hosted deployment.
 
 ## Mobile AI Testing
 
 AI-powered tools specifically for mobile app testing.
 
+- [Smart-AI-Bot](https://github.com/rejigtian/Smart-AI-Bot) 🆓 - AI-agent platform that runs plain-language UI test cases on real Android devices with visual step-replay reports and self-learning guardrails.
 - [Maestro](https://github.com/mobile-dev-inc/maestro) 🆓💰 - YAML-based mobile UI automation that reads accessibility tree, no XPath needed.
 - [Appium](https://appium.io/) 🆓 - Industry standard mobile automation, with AI plugins for self-healing.
 - [Sofy](https://sofy.ai/) 💰 - No-code AI mobile testing platform.
@@ -164,6 +171,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 - [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
 - [Respan](https://www.respan.ai/ai-gateway) 🆓💰 - LLM observability, evaluation, and prompt management platform with a multi-provider gateway.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) 🆓💰 - Regression testing for LLM model changes that replays the same test cases on two models and scores the outputs with LLM-as-judge, semantic and tool-call evaluators.
 
 ## Test Analytics and Triage
 
@@ -247,10 +255,14 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
 - [PyRIT](https://github.com/microsoft/PyRIT) 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
+- [drift-ci](https://github.com/Drift-CI/drift-ci) 🆓💰 - CI gate for LLM apps that scores test cases on every pull request against baselines committed to git and blocks the merge when behaviour regresses.
 - [Lakera Guard](https://www.lakera.ai/) 💰 - Real-time prompt injection and jailbreak detection.
 - [Prompt Security](https://prompt.security/) 💰 - Runtime prompt injection and data leak protection platform.
 - [Confident AI](https://www.confident-ai.com/) 💰 - LLM testing platform built around DeepEval.
 - [Spec27](https://www.spec27.ai/) 💰 - Specification-driven AI agent testing platform with automated test generation, adversarial robustness testing, and validation of third-party agents without SDK or code access.
+- [AgentProbe](https://github.com/chhayankjain/agentprobe-toolkit) 🆓 - Python fault-injection testing for tool-using LLM agents that wraps tools with deterministic failures (timeouts, rate limits, API errors) or substituted responses, records call evidence, and fails tests when required scenarios are unexercised or user-defined assertions fail.
+- [InferDoctor](https://github.com/anguoyang/inferdoctor) 🆓 - Evidence-driven diagnosis and CI regression gating for LLM applications (RAG, agents, inference): identifies the first broken layer from collected evidence, with PASS / BLOCKED / INCONCLUSIVE gate verdicts.
+- [TestMu AI Agent Testing](https://www.testmuai.com/agent-testing/) 💰 - Testing platform for chat, voice, phone, video, and image AI agents that uses simulated users, hallucination checks, and quality scoring.
 
 ## Browser Automation for AI Agents
 
