@@ -90,6 +90,7 @@ End-to-end testing platforms with AI at the core.
 - [Endtest](https://endtest.io) 💰 - Agentic AI test automation platform for web and mobile apps, featuring autonomous test generation, natural language authoring, self-healing, and cloud execution.
 - [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
+- [QA.tech](https://qa.tech/) 💰 - AI testing agent that verifies every pull request with exploratory and end-to-end tests across web, mobile, and APIs, before or after merge.
 - [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
 - [Agentiqa](https://agentiqa.com/) 🆓💰 - AI Quality System for production AI agents: AI Quality Manager runs critical user flows in a real browser and checks the results in the systems the agent wrote to, with a free Community Edition (20 runs/month) for web apps.
 - [Autify](https://autify.com/) 💰 - No-code end-to-end testing platform with AI-driven maintenance.
