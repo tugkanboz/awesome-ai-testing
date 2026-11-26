@@ -262,6 +262,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 - [AgentProbe](https://github.com/chhayankjain/agentprobe-toolkit) 🆓 - Python fault-injection testing for tool-using LLM agents that wraps tools with deterministic failures (timeouts, rate limits, API errors) or substituted responses, records call evidence, and fails tests when required scenarios are unexercised or user-defined assertions fail.
 - [InferDoctor](https://github.com/anguoyang/inferdoctor) 🆓 - Evidence-driven diagnosis and CI regression gating for LLM applications (RAG, agents, inference): identifies the first broken layer from collected evidence, with PASS / BLOCKED / INCONCLUSIVE gate verdicts.
 - [TestMu AI Agent Testing](https://www.testmuai.com/agent-testing/) 💰 - Testing platform for chat, voice, phone, video, and image AI agents that uses simulated users, hallucination checks, and quality scoring.
+- [ModelStill](https://github.com/modelstill/modelstill) 🆓 - Release gate for LLM changes that compares every prompt or model change with an accepted baseline case by case, with confidence intervals, and passes or fails in CI.
 
 ## Browser Automation for AI Agents
 
