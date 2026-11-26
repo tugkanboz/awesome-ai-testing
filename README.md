@@ -146,6 +146,7 @@ Write tests using plain English (or other natural languages).
 - [Auto Playwright](https://github.com/lucgagan/auto-playwright) 🆓 - Run Playwright tests with AI through plain text prompts.
 - [Passmark](https://github.com/bug0inc/passmark) 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
 - [Midscene.js](https://github.com/web-infra-dev/midscene) 🆓 - AI-driven UI automation with natural language commands.
+- [Selenia](https://github.com/penielny/selenia) 🆓 - Finds Selenium elements from plain-English descriptions with a 24 MB fine-tuned model that runs locally on CPU, with no LLM or API key.
 - [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
 ## LLM-as-Judge Evaluation
