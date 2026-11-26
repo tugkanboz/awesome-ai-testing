@@ -44,6 +44,7 @@ Tools that generate test cases from code, requirements, or user behavior using A
 - [EvoMaster](https://github.com/WebFuzzing/EvoMaster) 🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.
 - [EvoSuite](https://github.com/EvoSuite/evosuite) 🆓 - Generates JUnit tests using evolutionary and genetic search-based algorithms for Java.
 - [Pynguin](https://github.com/se2p/pynguin) 🆓 - Automated unit test generation for Python via evolutionary algorithms, from Saarland University.
+- [wardenIQ](https://github.com/adlerqa/wardeniq) 🆓 - Generates a typed test suite from PRD/HLD/LLD documents with an LLM, then reads your real code and judges each case covered, partial or uncovered with the files as evidence. Self-hosted, MIT, bring your own model.
 - [Symflower](https://symflower.com/) 💰 - Commercial tool that combines symbolic execution, static analysis, and LLMs to generate unit tests for Java, Go, and Kotlin. Free CLI available with limitations.
 - [CodiumAI / Qodo](https://www.qodo.ai/) 💰 - AI assistant generating meaningful tests from code context.
 - [Diffblue Cover](https://www.diffblue.com/) 💰 - Autonomous Java unit test writer using reinforcement learning.
