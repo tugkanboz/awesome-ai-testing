@@ -158,6 +158,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) 🆓 - LLM evaluation framework from the UK AI Safety Institute.
 - [Coder Eval](https://github.com/UiPath/coder_eval) 🆓 - Framework for testing AI coding agents (Claude Code, Codex, Gemini) and their skills by running them in a sandbox against declarative YAML tasks. Grades the resulting files and commands with weighted criteria, LLM- and agent-judged rubrics, and skill-activation precision/recall gates, then fails CI on regressions.
 - [TruLens](https://github.com/truera/trulens) 🆓 - Evaluation framework for LLM apps with feedback functions and tracing.
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) 🆓 - Skill and CLI that judges coding-agent work with formal property checks and a second-model review before it can be called done.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) 🆓 - Open-source LLM observability and evaluation.
 - [Weights & Biases Weave](https://github.com/wandb/weave) 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
 - [OpenAI Evals](https://github.com/openai/evals) 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
